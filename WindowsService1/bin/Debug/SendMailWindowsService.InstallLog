@@ -1,0 +1,179 @@
+﻿Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Warning: The source MailEngineServiceJob is not registered on the local machine.
+Service MailEngineServiceJob is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
+Installing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Installing service MailEngineServiceJob...
+Service MailEngineServiceJob has been successfully installed.
+Creating EventLog source MailEngineServiceJob in log Application...
+Committing assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Uninstalling assembly 'C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.InstallLog
+   assemblypath = C:\Users\mkaur1\source\repos\WindowsService1\WindowsService1\bin\Debug\SendMailWindowsService.exe
+Removing EventLog source MailEngineServiceJob.
+Service MailEngineServiceJob is being removed from the system...
+Service MailEngineServiceJob was successfully removed from the system.
